@@ -18,14 +18,6 @@ Both models include:
 - Performance evaluation (RMSE, MAE, R²)  
 - Visual comparison plots  
 ---
-## Repository Structure
-day-ahead-electricity-price-forecasting/
-│
-├── random_forest.m % Random Forest model script
-├── support_vector_machine.m % SVM model script
-├── README.md % Project documentation
-└── thesis/ %  Dissertation PDF
----
 ## Features Implemented
 - Data preprocessing & cleaning  
 - Lag feature generation (1–24 hours)  
