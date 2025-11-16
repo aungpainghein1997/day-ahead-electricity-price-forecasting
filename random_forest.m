@@ -1,7 +1,7 @@
-%% ============================================================
+%% 
 %  RANDOM FOREST DAY-AHEAD ELECTRICITY PRICE FORECASTING
 %  Final Combined Script (Lag Features + Hyperparameter Tuning)
-% =============================================================
+%
 
 clc; clear; close all;
 
@@ -122,4 +122,5 @@ plot(timestamps_next24, y_pred_day_ahead, '-o', 'LineWidth', 2);
 xlabel('Time'); ylabel('Forecasted Price');
 title('Random Forest – Day-Ahead Forecast');
 grid on;
+
 
