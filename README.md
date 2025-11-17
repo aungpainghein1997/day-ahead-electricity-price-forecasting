@@ -62,7 +62,7 @@ My academic and career interests focus on:
 ---
 ## Contact
 **Aung Paing Hein**  
-Email: *your email*  
+Email: aungpyhein199@gmail.com  
 GitHub: https://github.com/aungpainghein1997  
 
 ---
